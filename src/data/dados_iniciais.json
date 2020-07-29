@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Neural Network 3D Simulation",
+          "url": "hhttps://www.youtube.com/watch?v=3JQ3hYko51Y"
         },
         {
           "titulo": "SEO com React",
@@ -82,42 +82,46 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Introdução a Deep Learning",
+          "url": "https://www.youtube.com/watch?v=ei5F76hF2bg&list=PLbmt8d_ueDMVUVlw9VZSdgAIi6W3u-7Zg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "TensorFlow",
+          "url": "https://www.youtube.com/watch?v=2eYLt1NA4Ss"
+        },
+        {
+          "titulo": "Inteligência Artificial jogando Flappy Bird!!",
+          "url": "https://www.youtube.com/watch?v=vavXvu_SMeM"
         },
         {
           "titulo": "Melhor forma de aprender Python",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Por que a Inteligência Artificial não é um bando de IF-ELSE?",
+          "url": "https://www.youtube.com/watch?v=F0Iby7KCXls"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Musicas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Leave Out All The Rest (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=yZIummTz9mM"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Ed Sheeran - Perfect",
+          "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "John Legend - All Of Me",
+          "url": "https://www.youtube.com/watch?v=3WQ0xZLOmes"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Aerosmith - I Don't Want to Miss a Thing",
+          "url": "https://www.youtube.com/watch?v=JkK8g6FMEXE"
         }
       ]
     },
@@ -160,12 +164,12 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
         },
         {
           "titulo": "Frameworks",
