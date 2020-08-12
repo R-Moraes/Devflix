@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -8,8 +10,7 @@ import CadastroVideo from './pages/cadastro/Videos';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
 // Desafio master blaster na descrição
-// Colocar um jogo nessa página: https://www.youtube.com/watch?v=jOAU81jdi-c :)
-const Pagina404 = () => (<div>Página 404</div>)
+const Pagina404 = () => (<div>Página 404</div>);
 
 ReactDOM.render(
   <BrowserRouter>
@@ -20,5 +21,7 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
+  // eslint-disable-next-line comma-dangle
   document.getElementById('root')
+// eslint-disable-next-line eol-last
 );
